@@ -25,6 +25,15 @@ The dataset contains all the transactions occurring between 01/12/2010 and 09/12
 
 **Country:** Country name, the name of the country where each customer resides.<br>
 
+## **Results:**
+
+<img src="images/3d_scatter.png" style="margin: 10px 0px"/>
+
+
+
+
+
+
 
 ## **Conclusion:**
 • Cluster 2 is the high value customers with the highest number of orders, frequency and the most recent transactions.<br>
