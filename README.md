@@ -27,7 +27,7 @@ The dataset contains all the transactions occurring between 01/12/2010 and 09/12
 
 ## **Results:**
 
-<img src="desktop/3d_scatter.png" style="margin: 10px 0px"/>
+<img src="images/3d_scatter.png" style="margin: 10px 0px"/>
 
 
 
