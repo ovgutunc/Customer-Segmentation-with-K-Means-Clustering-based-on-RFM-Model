@@ -31,9 +31,6 @@ The dataset contains all the transactions occurring between 01/12/2010 and 09/12
 
 <img src="https://github.com/ovgutunc/Customer-Segmentation-with-K-Means-Clustering-based-on-RFM-Model/blob/main/images/3d_scatter.PNG" alt="cluster" width="600" height="600">
 
-
-
-## **Conclusion:**
 • Cluster 2 is the high value customers with the highest number of orders, frequency and the most recent transactions.<br>
 
 • Cluster 1 is the lost customers who rarely place orders with the lowest amount of sales.<br>
