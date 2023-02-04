@@ -28,8 +28,12 @@ The dataset contains all the transactions occurring between 01/12/2010 and 09/12
 
 
 ## **Conclusion:**
-• Cluster 2 is the high value customers with the highest number of orders, frequency and the most recent transactions.<br>
-• Cluster 1 is the lost customers who rarely place orders with the lowest amount of sales.<br>
-• Cluster 0 encompasses at risk and loyal customers with medium value of frquency, recency and monetary.<br>
-• High monetary value is correlated with high frequency of orders and more recent ones in all clusters.<br>
-• The company can create different marketing campaigns for the customer segments to grow revenue based on online retailer policies. In that sense, the company can offer incentives to low-value customers to keep them engaged and increase their frequency of orders. On the other hand, they can offer privileges such as exclusive discounts and early access to new products. Overall, it depends on what the company's business goal is.<br>
+**•** Cluster 2 is the high value customers with the highest number of orders, frequency and the most recent transactions.<br>
+
+**•** Cluster 1 is the lost customers who rarely place orders with the lowest amount of sales.<br>
+
+**•** Cluster 0 encompasses at risk and loyal customers with medium value of frquency, recency and monetary.<br>
+
+**•** High monetary value is correlated with high frequency of orders and more recent ones in all clusters.<br>
+
+**•** The company can create different marketing campaigns for the customer segments to grow revenue based on online retailer policies. In that sense, the company can offer incentives to low-value customers to keep them engaged and increase their frequency of orders. On the other hand, they can offer privileges such as exclusive discounts and early access to new products. Overall, it depends on what the company's business goal is.<br>
