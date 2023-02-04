@@ -59,5 +59,7 @@ The link to the datasets is here.<br>
 • Cluster 0 encompasses at risk and loyal customers with medium value of frquency, recency and monetary.<br>
 
 • High monetary value is correlated with high frequency of orders and more recent ones in all clusters.<br>
+ 
+## **Recommendations:**
 
-• The company can create different marketing campaigns for the customer segments to grow revenue based on online retailer policies. In that sense, the company can offer incentives to low-value customers to keep them engaged and increase their frequency of orders. On the other hand, they can offer privileges such as exclusive discounts and early access to new products. Overall, it depends on what the company's business goal is.<br>
+The company can create different marketing campaigns for the customer segments to grow revenue based on online retailer policies. In that sense, the company can offer incentives to low-value customers to keep them engaged and increase their frequency of orders. On the other hand, they can offer privileges such as exclusive discounts and early access to new products. Overall, it depends on what the company's business goal is.<br>
