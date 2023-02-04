@@ -27,9 +27,9 @@ The dataset contains all the transactions occurring between 01/12/2010 and 09/12
 
 ## **Results:**
 
-<img src="https://github.com/ovgutunc/Customer-Segmentation-with-K-Means-Clustering-based-on-RFM-Model/tree/main/images/3d_scatter.png" style="margin: 10px 0px"/>
 
 
+![cluster](https://github.com/ovgutunc/Customer-Segmentation-with-K-Means-Clustering-based-on-RFM-Model/tree/main/images/3d_scatter.png)
 
 
 
