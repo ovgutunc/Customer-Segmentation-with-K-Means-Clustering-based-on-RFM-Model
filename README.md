@@ -1,6 +1,6 @@
 # Customer-Segmentation-with-K-Means-Clustering-based-on-RFM-Model
 
-## **Introduction:**
+## **Project Overview:**
 This project aims to divide customers into segments based on RFM method and K-Means Clustering Model, which in turn creates tailored marketing strategies according to the customer behavior, characteristics, and needs.<br>
 Here’s the overview of the workflow followed in this project:
 
