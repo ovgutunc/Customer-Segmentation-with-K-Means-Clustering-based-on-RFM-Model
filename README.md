@@ -10,7 +10,7 @@ To get further information about exploratory data analysis and hypothesis testin
 
 The dataset contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. It can be found here and the attributes are as follows.<br>
 
-**InvoiceNo:** Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.<br>
+**InvoiceNo:** Invoice number, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.<br>
 
 **StockCode:** Product (item) code, 5-digit integral number uniquely assigned to each distinct product.<br>
 
@@ -26,3 +26,10 @@ The dataset contains all the transactions occurring between 01/12/2010 and 09/12
 
 **Country:** Country name, the name of the country where each customer resides.<br>
 
+
+## **Conclusion:**
+• Cluster 2 is the high value customers with the highest number of orders, frequency and the most recent transactions.<br>
+• Cluster 1 is the lost customers who rarely place orders with the lowest amount of sales.<br>
+• Cluster 0 encompasses at risk and loyal customers with medium value of frquency, recency and monetary.<br>
+• High monetary value is correlated with high frequency of orders and more recent ones in all clusters.<br>
+• The company can create different marketing campaigns for the customer segments to grow revenue based on online retailer policies. In that sense, the company can offer incentives to low-value customers to keep them engaged and increase their frequency of orders. On the other hand, they can offer privileges such as exclusive discounts and early access to new products. Overall, it depends on what the company's business goal is.<br>
