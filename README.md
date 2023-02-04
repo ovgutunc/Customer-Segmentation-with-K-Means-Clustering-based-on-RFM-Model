@@ -25,6 +25,8 @@ The dataset contains all the transactions occurring between 01/12/2010 and 09/12
 
 **Country:** Country name, the name of the country where each customer resides.<br>
 
+The link to the datasets is here.<br>
+
 ## **Results:**
 
 <p align="center">
