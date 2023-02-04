@@ -2,8 +2,27 @@
 
 ## **Introduction:**
 This project aims to divide customers into segments based on RFM method and K-Means Clustering Model, which in turn creates tailored marketing strategies according to the customer behavior, characteristics, and needs.<br>
+Here’s the overview of the workflow followed in this project:
 
-To get further information about exploratory data analysis and hypothesis testing, please check out Jupyter Notebook.<br>
+•	Define the business task and methods, which is K-Means Clustering algorithm with measurement metrics(RFM values) to solve the problem<br>
+
+•	Conduct a comprehensive analysis, including data understanding, pre-processing, and exploratory data analysis (EDA)<br>
+
+•	Perform feature engineering, including feature creation for RFM model<br>
+
+•	Divide the customer into segments based on RFM values<br>
+
+•	Transform the dataset by log transform and normalization before fitting K-Means Clustering model<br>
+
+•	Determine the optimum number of clusters by comparing the results of Elbow and Silhoutte method<br>
+
+•	Fit the model on the final dataset and find the K-Means Clusters<br>
+
+•	Explore and compare distributions of RFM groups and K-Means Clusters based on RFM values<br>
+
+•	Discuss the results and make recommendations for the clusters<br>
+
+To get detailed information about customer segmentation with K-means clustering, please check out Jupyter Notebook.<br>
 
 ## **Data Understanding:**
 
