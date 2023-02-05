@@ -17,11 +17,16 @@ RFM (Recency, Frequency, Monetary) Analysis is a customer segmentation technique
 • **Frequency :** The total number of transaction between the customer’s invoice date and reference day.<br>
 • **Monetary :** The total transaction value of customers.<br>
 
-A customer's value to a business can be quantified by considering a combination of R,F,M values. For example, a customer who has made recent high-value purchases and frequently engages in transactions is considered as high value to the business.<br>
+After applying data pre-processing, exploratory data analysis, and feature engineering, a customer's value to a business can be quantified by considering a combination of R,F,M values. For example, a customer who has made recent high-value purchases and frequently engages in transactions is considered as high value to the business.<br>
 
 ## **Customer Segmentaton with K-Means Clustering on RFM values:**
 
+K-Means clustering is one of the distance-based and unsupervised machine learning algorithms. It partitions the data points into k clusters based on the Euclidean Distance used for the clustering. It is sensitive to skewness and outliers, which can cause the clusters to be distorted and lead to inaccuracies in the results. In this manner, log transform can be used to turn a skewed distribution into a normal or less-skewed. Following this, normalization is required to prevent one attribute outweighs another one in terms of the scales. Finally, before applying the K-Means Clustering algorithm, the optimum number of k should be defined. The two ways of defining the number of clusters in this dataset are as follows:<br>
 
+• Elbow Method<br>
+• Silhouette Method<br>
+
+Afterward, the model can fit into the final dataset and end up with K-means clusters.<br>
 
 ## **Results:**
 
