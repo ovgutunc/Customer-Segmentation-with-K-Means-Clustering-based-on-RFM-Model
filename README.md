@@ -45,3 +45,8 @@ Afterward, the model can fit into the final dataset and end up with K-means clus
 ## **Recommendations:**
 
 The company can create different marketing campaigns for the customer segments to grow revenue based on online retailer policies. In that sense, the company can offer incentives to low-value customers to keep them engaged and increase their frequency of orders. On the other hand, they can offer privileges such as exclusive discounts and early access to new products. Overall, it depends on what the company's business goal is.<br>
+ 
+_Thank you for your precious time.I hope you enjoy my data world as much as ı do._
+_Keep grinding !_
+
+
