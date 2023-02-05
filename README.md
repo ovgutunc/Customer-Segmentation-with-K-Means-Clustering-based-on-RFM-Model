@@ -46,6 +46,12 @@ The dataset contains all the transactions occurring between 01/12/2010 and 09/12
 
 The link to the datasets is here.<br>
 
+## **Recency-Frequency-Monetary (RFM) analysis to determine customer segments**
+
+## **Customer Segmentaton with K-Means Clustering on RFM values**
+
+
+
 ## **Results:**
 
 <p align="center">
