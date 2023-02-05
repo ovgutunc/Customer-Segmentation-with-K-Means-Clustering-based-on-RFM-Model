@@ -13,11 +13,11 @@ The dataset obtained from [UCI Machine Learning Dataset repository](http://archi
 
 RFM (Recency, Frequency, Monetary) Analysis is a customer segmentation technique for analyzing customer value based on past buying behavior. RFM stands for the three values:
 
-• **Recency :** The time since last order with the product of customers.
-• **Frequency :** The total number of transaction between the customer’s invoice date and reference day.
-• **Monetary :** The total transaction value of customers.
+• **Recency :** The time since last order with the product of customers.<br>
+• **Frequency :** The total number of transaction between the customer’s invoice date and reference day.<br>
+• **Monetary :** The total transaction value of customers.<br>
 
-A customer's value to a business can be quantified by considering a combination of R,F,M values. For example, a customer who has made recent high-value purchases and frequently engages in transactions is considered as high value to the business.
+A customer's value to a business can be quantified by considering a combination of R,F,M values. For example, a customer who has made recent high-value purchases and frequently engages in transactions is considered as high value to the business.<br>
 
 ## **Customer Segmentaton with K-Means Clustering on RFM values:**
 
