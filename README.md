@@ -1,36 +1,17 @@
 # Customer-Segmentation-with-K-Means-Clustering-based-on-RFM-Model
 
-Check out the detailed report and source code
-
-## **Project Overview:**
+## **Introduction:**
 This project aims to divide customers into segments based on RFM method and K-Means Clustering Model, which in turn creates tailored marketing strategies according to the customer behavior, characteristics, and needs.<br>
-Here’s the overview of the workflow followed in this project:
 
-•	Define the business task and methods, which is K-Means Clustering algorithm with measurement metrics(RFM values) to solve the problem<br>
-
-•	Conduct a comprehensive analysis, including data understanding, pre-processing, and exploratory data analysis (EDA)<br>
-
-•	Perform feature engineering, including feature creation for RFM model<br>
-
-•	Divide the customer into segments based on RFM values<br>
-
-•	Transform the dataset by log transform and normalization before fitting K-Means Clustering model<br>
-
-•	Determine the optimum number of clusters by comparing the results of Elbow and Silhoutte method<br>
-
-•	Fit the model on the final dataset and find the K-Means Clusters<br>
-
-•	Explore and compare distributions of RFM groups and K-Means Clusters based on RFM values<br>
-
-•	Discuss the results and make recommendations for the clusters<br>
-
-To get detailed information about customer segmentation with K-means clustering, please check out Jupyter Notebook.<br>
+[Check out the detailed report and source code]()
 
 ## **Data Understanding:**
 
 The dataset obtained from [UCI Machine Learning Dataset repository](http://archive.ics.uci.edu/ml/datasets/online+retail), contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The attributes include invoice number, product code, product name, quantity per transaction, invoice date, product unit price, customerID, and country. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
-## **Customer Segmentaton with K-Means Clustering on RFM values**
+## **Recency-Frequency-Monetary (RFM) model to determine customer value:**
+
+## **Customer Segmentaton with K-Means Clustering on RFM values:**
 
 
 
